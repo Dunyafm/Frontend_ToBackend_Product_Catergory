@@ -3,10 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace FrontToBackProductCategory.Models
+namespace FrontToBackProductCategory.ViewModels
 {
-    public class BaseEntity
+    public class BasketVM
     {
-
     }
 }

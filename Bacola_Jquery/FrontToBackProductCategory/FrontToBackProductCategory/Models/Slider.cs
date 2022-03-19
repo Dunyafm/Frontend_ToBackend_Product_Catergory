@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace FrontToBackProductCategory.Models
 {
-    public class Slider
+    public class Slider : BaseEntity 
     {
     }
 }

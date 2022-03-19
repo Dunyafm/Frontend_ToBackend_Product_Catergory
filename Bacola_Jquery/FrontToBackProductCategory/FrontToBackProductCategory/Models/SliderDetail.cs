@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace FrontToBackProductCategory.Models
 {
-    public class Products
+    public class SliderDetail
     {
     }
 }
