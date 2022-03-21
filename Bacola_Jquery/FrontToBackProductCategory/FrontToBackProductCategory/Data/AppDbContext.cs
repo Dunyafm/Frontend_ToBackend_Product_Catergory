@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace FrontToBackProductCategory.Data
 {
-    public AppDbContext(DbContextOptions<AppDbContext> options):base(Options)
-    {
-
-}   }
-
+}
 
 
 

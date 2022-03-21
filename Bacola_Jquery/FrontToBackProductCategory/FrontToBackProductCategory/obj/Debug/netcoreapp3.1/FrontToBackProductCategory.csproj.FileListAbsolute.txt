@@ -209,7 +209,6 @@ C:\Users\FX706HCB\Desktop\Frontend_ToBackend_Product_Catergory\Bacola_Jquery\Fro
 C:\Users\FX706HCB\Desktop\Frontend_ToBackend_Product_Catergory\Bacola_Jquery\FrontToBackProductCategory\FrontToBackProductCategory\obj\Debug\netcoreapp3.1\FrontToBackProductCategory.RazorCoreGenerate.cache
 C:\Users\FX706HCB\Desktop\Frontend_ToBackend_Product_Catergory\Bacola_Jquery\FrontToBackProductCategory\FrontToBackProductCategory\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\FX706HCB\Desktop\Frontend_ToBackend_Product_Catergory\Bacola_Jquery\FrontToBackProductCategory\FrontToBackProductCategory\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
-C:\Users\FX706HCB\Desktop\Frontend_ToBackend_Product_Catergory\Bacola_Jquery\FrontToBackProductCategory\FrontToBackProductCategory\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
 C:\Users\FX706HCB\Desktop\Frontend_ToBackend_Product_Catergory\Bacola_Jquery\FrontToBackProductCategory\FrontToBackProductCategory\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Users\FX706HCB\Desktop\Frontend_ToBackend_Product_Catergory\Bacola_Jquery\FrontToBackProductCategory\FrontToBackProductCategory\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\FX706HCB\Desktop\Frontend_ToBackend_Product_Catergory\Bacola_Jquery\FrontToBackProductCategory\FrontToBackProductCategory\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
@@ -222,3 +221,4 @@ C:\Users\FX706HCB\Desktop\Frontend_ToBackend_Product_Catergory\Bacola_Jquery\Fro
 C:\Users\FX706HCB\Desktop\Frontend_ToBackend_Product_Catergory\Bacola_Jquery\FrontToBackProductCategory\FrontToBackProductCategory\obj\Debug\netcoreapp3.1\FrontToBackProductCategory.dll
 C:\Users\FX706HCB\Desktop\Frontend_ToBackend_Product_Catergory\Bacola_Jquery\FrontToBackProductCategory\FrontToBackProductCategory\obj\Debug\netcoreapp3.1\FrontToBackProductCategory.pdb
 C:\Users\FX706HCB\Desktop\Frontend_ToBackend_Product_Catergory\Bacola_Jquery\FrontToBackProductCategory\FrontToBackProductCategory\obj\Debug\netcoreapp3.1\FrontToBackProductCategory.genruntimeconfig.cache
+C:\Users\FX706HCB\Desktop\Frontend_ToBackend_Product_Catergory\Bacola_Jquery\FrontToBackProductCategory\FrontToBackProductCategory\obj\Debug\netcoreapp3.1\Razor\Views\Card\Index.cshtml.g.cs
