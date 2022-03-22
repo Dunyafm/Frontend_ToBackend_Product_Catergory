@@ -7,5 +7,7 @@ namespace FrontToBackProductCategory.Models
 {
     public class SliderDetail
     {
+        public string Image { get; set; }
+        public string Description { get; set; }
     }
 }

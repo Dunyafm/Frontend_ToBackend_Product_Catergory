@@ -16,7 +16,6 @@ namespace FrontToBackProductCategory.Models
         public string SosialMediaIcon { get; set; }
         public string CovidInfo { get; set; }
         public string Navtabs { get; set; }
-
-
+        public bool IsDeleted { get; internal set; }
     }
 }
