@@ -193,7 +193,6 @@ C:\Users\FX706HCB\Desktop\Frontend_ToBackend_Product_Catergory\Bacola_Jquery\Fro
 C:\Users\FX706HCB\Desktop\Frontend_ToBackend_Product_Catergory\Bacola_Jquery\FrontToBackProductCategory\FrontToBackProductCategory\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\FX706HCB\Desktop\Frontend_ToBackend_Product_Catergory\Bacola_Jquery\FrontToBackProductCategory\FrontToBackProductCategory\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\FX706HCB\Desktop\Frontend_ToBackend_Product_Catergory\Bacola_Jquery\FrontToBackProductCategory\FrontToBackProductCategory\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\FX706HCB\Desktop\Frontend_ToBackend_Product_Catergory\Bacola_Jquery\FrontToBackProductCategory\FrontToBackProductCategory\obj\Debug\netcoreapp3.1\FrontToBackProductCategory.csproj.AssemblyReference.cache
 C:\Users\FX706HCB\Desktop\Frontend_ToBackend_Product_Catergory\Bacola_Jquery\FrontToBackProductCategory\FrontToBackProductCategory\obj\Debug\netcoreapp3.1\FrontToBackProductCategory.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\FX706HCB\Desktop\Frontend_ToBackend_Product_Catergory\Bacola_Jquery\FrontToBackProductCategory\FrontToBackProductCategory\obj\Debug\netcoreapp3.1\FrontToBackProductCategory.AssemblyInfoInputs.cache
 C:\Users\FX706HCB\Desktop\Frontend_ToBackend_Product_Catergory\Bacola_Jquery\FrontToBackProductCategory\FrontToBackProductCategory\obj\Debug\netcoreapp3.1\FrontToBackProductCategory.AssemblyInfo.cs
@@ -209,7 +208,6 @@ C:\Users\FX706HCB\Desktop\Frontend_ToBackend_Product_Catergory\Bacola_Jquery\Fro
 C:\Users\FX706HCB\Desktop\Frontend_ToBackend_Product_Catergory\Bacola_Jquery\FrontToBackProductCategory\FrontToBackProductCategory\obj\Debug\netcoreapp3.1\FrontToBackProductCategory.RazorCoreGenerate.cache
 C:\Users\FX706HCB\Desktop\Frontend_ToBackend_Product_Catergory\Bacola_Jquery\FrontToBackProductCategory\FrontToBackProductCategory\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\FX706HCB\Desktop\Frontend_ToBackend_Product_Catergory\Bacola_Jquery\FrontToBackProductCategory\FrontToBackProductCategory\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
-C:\Users\FX706HCB\Desktop\Frontend_ToBackend_Product_Catergory\Bacola_Jquery\FrontToBackProductCategory\FrontToBackProductCategory\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Users\FX706HCB\Desktop\Frontend_ToBackend_Product_Catergory\Bacola_Jquery\FrontToBackProductCategory\FrontToBackProductCategory\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\FX706HCB\Desktop\Frontend_ToBackend_Product_Catergory\Bacola_Jquery\FrontToBackProductCategory\FrontToBackProductCategory\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
 C:\Users\FX706HCB\Desktop\Frontend_ToBackend_Product_Catergory\Bacola_Jquery\FrontToBackProductCategory\FrontToBackProductCategory\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
@@ -262,3 +260,5 @@ C:\Users\FX706HCB\Desktop\Frontend_ToBackend_Product_Catergory\Bacola_Jquery\Fro
 C:\Users\FX706HCB\Desktop\Frontend_ToBackend_Product_Catergory\Bacola_Jquery\FrontToBackProductCategory\FrontToBackProductCategory\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\FX706HCB\Desktop\Frontend_ToBackend_Product_Catergory\Bacola_Jquery\FrontToBackProductCategory\FrontToBackProductCategory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\FX706HCB\Desktop\Frontend_ToBackend_Product_Catergory\Bacola_Jquery\FrontToBackProductCategory\FrontToBackProductCategory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\FX706HCB\Desktop\Frontend_ToBackend_Product_Catergory\Bacola_Jquery\FrontToBackProductCategory\FrontToBackProductCategory\bin\Debug\netcoreapp3.1\Microsoft.Build.Framework.dll
+C:\Users\FX706HCB\Desktop\Frontend_ToBackend_Product_Catergory\Bacola_Jquery\FrontToBackProductCategory\FrontToBackProductCategory\obj\Debug\netcoreapp3.1\FrontToBackProductCategory.csproj.AssemblyReference.cache

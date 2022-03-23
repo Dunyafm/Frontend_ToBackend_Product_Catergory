@@ -7,5 +7,8 @@ namespace FrontToBackProductCategory.ViewModels
 {
     public class BasketVM
     {
+        public string Id { get; set; }
+        public string Count { get; set; }
+
     }
 }

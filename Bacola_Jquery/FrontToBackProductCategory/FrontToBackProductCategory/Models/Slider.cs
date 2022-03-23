@@ -8,7 +8,7 @@ namespace FrontToBackProductCategory.Models
     public class Slider : BaseEntity 
     {
 
-        public int Id { get; set; }
+        
         public string Image { get; set; }
       
 

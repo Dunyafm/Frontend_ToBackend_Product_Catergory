@@ -23,12 +23,12 @@ namespace FrontToBackProductCategory.Controllers
         }
         public async Task<IActionResult> Index()
         {
-           
+
             List<Slider> sliders = await _context.Sliders.ToListAsync();
             SliderDetail detail = await _context.SliderDetails.FirstOrDefaultAsync();
-            List<Category> categories = await _context.Categories.Where(c => c.IsDeleted == false).ToListAsync();
+            List<Catergory> catergories = await _context.Catergories.Where(c => c.IsDeleted == false).ToListAsync();
             List<Product> products = await _context.Products.Where(p => p.IsDeleted == false)
-                .Include(m => m.Categories)
+                
                 .Include(m => m.Images)
                 .OrderByDescending(m => m.Id)
                 .Take(8)
@@ -38,18 +38,14 @@ namespace FrontToBackProductCategory.Controllers
             {
                 Sliders = sliders,
                 Detail = detail,
-                Catergories = categories,
+                
                 Products = products
             };
 
             return View(homeVM);
         }
 
-        private object Include(Func<object, object> p)
-        {
-            throw new NotImplementedException();
-        }
+       
 
-        
     }
 }

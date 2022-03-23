@@ -26,8 +26,15 @@ using FrontToBackProductCategory.Models;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 3 "C:\Users\FX706HCB\Desktop\Frontend_ToBackend_Product_Catergory\Bacola_Jquery\FrontToBackProductCategory\FrontToBackProductCategory\Views\_ViewImports.cshtml"
+using FrontToBackProductCategory.ViewModels;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"3c73d706076a1bd5ed4f22a5f7af74a67a7e07e2", @"/Views/Shared/_ProductsPartial.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"c629462f98ee6865f01c1545f038c84ed9a4852a", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"47746beaac0782a83356e0e37b7ae15dc0c59451", @"/Views/_ViewImports.cshtml")]
     public class Views_Shared__ProductsPartial : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         #pragma warning disable 1998
