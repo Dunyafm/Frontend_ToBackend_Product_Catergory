@@ -1,4 +1,14 @@
 ﻿@model HomeVM
+@{
+    ViewData["Title"] = "Home";
+}
+@section style{
+    <link rel="stylesheet" href="~/assets/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="~/assets/css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="~/assets/css/flipclock.css">
+    <link rel="stylesheet" href="~/assets/css/style.css">
+}
+
 
 <!-- MAIN START -->
 <main>
@@ -9,7 +19,7 @@
         <div class="owl-carousel slider">
             @foreach (var item in Model.Sliders)
             {
-            <div> <img src="img/@item.Image" alt=""> </div>
+                <div> <img src="img/@item.Image" alt=""> </div>
             }
 
         </div>
@@ -45,7 +55,7 @@
                                 <li><a href="" data-id="all">All</a></li>
                                 @foreach (var ct in Model.Catergories)
                                 {
-                                <li><a href="" data-id="@ct.Name.ToLower()">@ct.Name</a></li>
+                                    <li><a href="" data-id="@ct.Name.ToLower()">@ct.Name</a></li>
                                 }
 
                             </ul>
@@ -55,7 +65,7 @@
                         <li><a href="" data-id="all">All</a></li>
                         @foreach (var ct in Model.Catergories)
                         {
-                        <li><a href="" data-id="@ct.Name.ToLower()">@ct.Name</a></li>
+                            <li><a href="" data-id="@ct.Name.ToLower()">@ct.Name</a></li>
                         }
                     </ul>
                     <ul class="list-unstyled">

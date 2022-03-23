@@ -23,4 +23,17 @@
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.5" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Areas\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\assets\js\main.js" />
+    <None Include="wwwroot\assets\js\plugins\flipclock\flipclock.js" />
+    <None Include="wwwroot\assets\js\plugins\flipclock\flipclock.min.js" />
+    <None Include="wwwroot\assets\js\plugins\jquery.exzoom.js" />
+    <None Include="wwwroot\assets\js\plugins\owlcarousel\owl.carousel.js" />
+    <None Include="wwwroot\assets\js\plugins\owlcarousel\owl.carousel.min.js" />
+  </ItemGroup>
+
 </Project>

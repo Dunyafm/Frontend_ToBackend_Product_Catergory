@@ -1,10 +1,6 @@
 ﻿using FrontToBackProductCategory.Models;
 using FrontToBackProductCategory.ViewModels;
 using FrontToBackProductCategory.Data;
-
-//using Data;
-//using Models;
-//using ViewModels;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using System;
@@ -34,12 +30,20 @@ namespace FrontToBackProductCategory.Controllers
                 .Take(8)
                 .ToListAsync();
 
+            List<CatergoryName> catergoryNames = null;
+            List<Card> cards = null;
+            List<Fruit> fruits = null;
+            List<Beverage> beverages = null;
             HomeVM homeVM = new HomeVM
             {
                 Sliders = sliders,
                 Detail = detail,
-                
-                Products = products
+                Catergories = catergories,
+                CatergoryNames = catergoryNames,
+                Cards = cards,
+                Products = products,
+                Fruits = fruits,
+                Beverages = beverages
             };
 
             return View(homeVM);

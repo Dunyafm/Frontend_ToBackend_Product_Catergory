@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace FrontToBackProductCategory.Models
 {
-    public class SliderDetail
+    public class SliderDetail : BaseEntity
     {
         public string Image { get; set; }
         public string Description { get; set; }
