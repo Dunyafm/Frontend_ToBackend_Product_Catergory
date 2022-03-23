@@ -24,10 +24,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Areas\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <None Include="wwwroot\assets\js\main.js" />
     <None Include="wwwroot\assets\js\plugins\flipclock\flipclock.js" />
     <None Include="wwwroot\assets\js\plugins\flipclock\flipclock.min.js" />
